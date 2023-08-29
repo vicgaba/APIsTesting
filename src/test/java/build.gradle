@@ -18,5 +18,7 @@ dependencies{
     implementation group: 'io.cucumber', name: 'cucumber-java', version: '7.13.0'
     // https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber7-adapter
     implementation group: 'tech.grasshopper', name: 'extentreports-cucumber7-adapter', version: '1.14.0'
+    // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter
+    testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.10.0'
 
 }
